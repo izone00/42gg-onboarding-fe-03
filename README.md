@@ -9,12 +9,12 @@
 
 ## login + 유저 권한별 routing 후 해당 유저의 todo list 구현 (1, 2단계 융합)
 
-- (필수) Next.js, Recoil, SCSS, Typescript
-- (필수) DON'T USE ANYSCRIPT, tslint 적용
+- (필수) Next.js (기본 - Page routing, 선택 - App routing), Recoil, SCSS, Typescript
+- (필수) **DON'T USE ANYSCRIPT**, tslint 적용
 - (필수) custom hook 1개 이상 사용
-- (필수) axios
-- (선택) msw, react-query / SWR, pagination
-- (선택) 컴포넌트 재사용 고려
+- (필수) axios / react-query / SWR (선택) msw
+- (선택) tailwind CSS, twMerge, CVA (class variance authority)
+- (선택) Storybook, Test Code (React Testing Library, Cypress)
 - 세부 기능은 1단계와 2단계의 기능을 융합한 것입니다.
 - routing시 todo list 유지 안되도 됨 (mock API 한계)
 
