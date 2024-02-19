@@ -1,0 +1,18 @@
+.inputBox {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.5rem;
+
+  label {
+  }
+  input {
+    margin-bottom: 0.5rem;
+  }
+}
+
+.submitBtnBox {
+  display: flex;
+  justify-content: end;
+  button {
+  }
+}
